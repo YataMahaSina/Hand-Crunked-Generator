@@ -5,3 +5,4 @@ Hand Crunked Generator merupakan sebuah rancangan prototipe dari sistem perubah 
 ![Image](https://github.com/user-attachments/assets/7bfbc539-fd40-401f-bc5d-8f8cf24c2898)
 
 #Schematic 
+![Image](https://github.com/user-attachments/assets/40c78fa5-4944-4693-82c1-cdec04333138)
